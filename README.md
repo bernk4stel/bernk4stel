@@ -1,7 +1,7 @@
 # 💻 About:
 
 🔥 Strong .NET/C# Backend Developer  
-⚡ Experienced in deploying full-stack applications, Angular for front-end & .NET for back-end   
+⚡ Experienced in deploying full-stack applications using .NET/Angular.   
 👨‍💻 Adept in various databases like PostgreSQL and MS SQL Server  
 🌍 Based in Germany, München
 
