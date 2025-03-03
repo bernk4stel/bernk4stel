@@ -1,10 +1,10 @@
 # 💻 About:
 
 🔥 Strong .NET/C# Backend Developer  
-⚡ Experienced in deploying full-stack applications using .NET/Angular, at present working on AI-powered Vintage clothes related SaaS.   
-👨‍💻 Adept in various databases and tools.
+⚡ Experienced in deploying full-stack applications using .NET/Angular, at present working on AI-powered vintage clothes related SaaS.   
+👨‍💻 Adept in usage of various databases and tools.
 
-🌍 Based in Germany, München
+🌍 Based in München, Germany
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-myroniuk97/)
