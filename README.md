@@ -1,7 +1,7 @@
 # 💻 About:
 
 🔥 Strong .NET/C# Backend Developer  
-⚡ Experienced in deploying full-stack applications using .NET/Angular, at present working on AI-powered vintage clothes related SaaS.   
+⚡ Experienced in deploying full-stack applications using .NET/Angular, at present learning Spring Boot / React.   
 👨‍💻 Adept in usage of various databases and tools.
 
 🌍 Based in München, Germany
