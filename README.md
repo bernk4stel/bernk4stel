@@ -1,10 +1,10 @@
 # 💻 About
 
-🔥 Former .NET/C# Backend Developer
-🎓 Currently a student diving into a modern microservices stack: TypeScript/React, Java/Kotlin with Spring Boot, and Node.js  
-⚡ Experienced in designing and deploying full-stack applications (formerly .NET/Angular).
-👨‍💻 Proficient with relational databases, containerization, CI/CD pipelines, and infrastructure as code  
-🌍 Based in München, Germany
+🔥 Former .NET/C# Backend Developer <br>
+🎓 Currently a student diving into a modern microservices stack: TypeScript/React, Java/Kotlin with Spring Boot, and Node.js   <br>
+⚡ Experienced in designing and deploying full-stack applications (formerly .NET/Angular).  <br>
+👨‍💻 Proficient with relational databases, containerization, CI/CD pipelines, and infrastructure as code   <br>
+🌍 Based in München, Germany  <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-myroniuk97/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bernk4stel)
