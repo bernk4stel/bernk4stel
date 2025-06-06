@@ -26,15 +26,12 @@
 
 ## ▶️ Current & Learning
 
-### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-### Backend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-### Service & DevOps Tools
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Argo CD](https://img.shields.io/badge/ArgoCD-%238D8D8D.svg?style=for-the-badge&logo=argocd&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-%23E24329.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-%230095D5.svg?style=for-the-badge&logo=hashicorp&logoColor=white)
