@@ -1,17 +1,17 @@
 # 💻 About
 
 🔥 Former .NET/C# Backend Developer <br>
-🎓 Currently a student diving into a modern microservices stack: TypeScript/React, Java/Kotlin with Spring Boot, and Node.js   <br>
+🎓 Currently diving into: TypeScript/React, Java/Kotlin with Spring Boot, and Node.js   <br>
 ⚡ Experienced in designing and deploying full-stack applications (formerly .NET/Angular).  <br>
 👨‍💻 Proficient with relational databases, containerization, CI/CD pipelines, and infrastructure as code   <br>
 🌍 Based in München, Germany  <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-myroniuk97/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bernk4stel)
-
+<br/><br/>
 # 🔍 Tech Stack
 
-## ▶️ Previous (​Backend & Full-Stack)
+## Previous (​Backend & Full-Stack)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -24,7 +24,7 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## ▶️ Current & Learning
+## Current & Learning
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
